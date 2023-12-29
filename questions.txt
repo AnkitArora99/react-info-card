@@ -1,0 +1,3 @@
+Margin dynamic
+space between div from parent flex
+why root is not 100%

@@ -1,8 +1,9 @@
+import styles from './TitleViewer.module.css';
+
 function Title(props){
-    const title = props.title;
     return (
-        <div onClick={props.onclick}style={{cursor:'pointer'}}>
-        <div>{title}</div>
+        <div onClick={props.onclick} className={props.className}>
+        <div className={styles.titleText}>{props.title}</div>
         </div>
     )
 }
