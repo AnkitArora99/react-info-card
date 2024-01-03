@@ -1,9 +1,11 @@
 import "./App.css";
 
+import TitleViewer from "./components/TitleViewer";
+
 function App() {
   return (
     <>
-      <div>Learning React</div>
+      <TitleViewer />
     </>
   );
 }

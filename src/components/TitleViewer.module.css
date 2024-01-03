@@ -1,0 +1,62 @@
+.root{
+    height: 100%;
+    width: 100%;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+    margin: 10px
+}
+
+.titleViewContainer{
+    border: 2px solid black;
+    border-radius: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titleContainer{
+    height: 90vh;
+    overflow: scroll;
+}
+
+.title{
+    border: 1px solid black;
+    border-radius: 15%;
+    margin: 10px;
+    /* padding: 1px; */
+    cursor:pointer;
+    width: 30vh;
+    height: 20vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: scroll;
+}
+
+.titleText{
+    margin: 5px;
+    text-align: center;
+}
+
+.description{
+    border: 1px solid black;
+    border-radius: 10%;
+    margin: 0 5vh 0 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80vh;
+    height: 80vh;
+    overflow: scroll;
+}
+
+.descriptionText{
+    margin: 10px;
+    text-align: center;
+}

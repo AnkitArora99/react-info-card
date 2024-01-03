@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Introduction to JavaScript",
+        "description": "A beginner's guide to learning JavaScript, covering basic concepts, syntax, and programming techniques."
+    },
+    {
+        "id": 2,
+        "title": "Python Crash Course",
+        "description": "A quick and comprehensive tutorial for Python programming, suitable for beginners and those familiar with other programming languages."
+    },
+    {
+        "id": 3,
+        "title": "The Art of Cooking",
+        "description": "Explore the world of culinary arts, learning various cooking techniques, recipes, and kitchen tips from professional chefs."
+    },
+    {
+        "id": 4,
+        "title": "Travel Photography Tips",
+        "description": "Learn essential tips and tricks for capturing stunning photographs while traveling, covering composition, lighting, and equipment advice."
+    },
+    {
+        "id": 5,
+        "title": "Financial Planning 101",
+        "description": "A beginner's guide to personal finance, including budgeting, saving, investing, and managing finances for a secure future."
+    },
+    {
+        "id": 6,
+        "title": "Yoga and Mindfulness",
+        "description": "Discover the benefits of yoga and mindfulness practices for mental and physical well-being, with various poses and relaxation techniques."
+    },
+    {
+        "id": 7,
+        "title": "History of Ancient Civilizations",
+        "description": "Explore the rich history and cultural achievements of ancient civilizations from around the world, including Egypt, Greece, and Rome."
+    },
+    {
+        "id": 8,
+        "title": "Artificial Intelligence Explained",
+        "description": "An overview of artificial intelligence (AI) concepts, machine learning, and its applications in various fields like healthcare, finance, and technology."
+    },
+    {
+        "id": 9,
+        "title": "DIY Home Improvement Projects",
+        "description": "Step-by-step guides and tips for various do-it-yourself (DIY) home improvement projects, from renovations to decorations."
+    },
+    {
+        "id": 10,
+        "title": "Healthy Eating Habits",
+        "description": "Learn about nutritious foods, meal planning, and creating healthy eating habits for a balanced and fulfilling lifestyle."
+    }
+]
